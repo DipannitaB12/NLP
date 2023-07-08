@@ -1,9 +1,9 @@
 Link to unlisted YouTube video:
-
+https://youtu.be/2z0MZmcqY4g
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-
+https://github.com/DipannitaB12/NLP/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://app.diagrams.net/#G1HzAU6xaHpCJUmBxrbTHK0GjNWGLqg0UO
 
