@@ -11,7 +11,7 @@ Paper title:
 Explainable Detection of Online Sexism
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1Y74b3G5V2rAwINIGMZRnwdzPBLr4yxHvT8WLrhGQ1yI/edit#slide=id.g2582d3a93e4_0_3
 
 Paper submission date (to workshop/conference):
 25 October 1999
